@@ -22,7 +22,7 @@ const Projects = () => {
 
 
 
-            <ProjectCard tag1="HTML" tag2="CSS" tag3="JavaScript" name="Catan Board Generator" url="https://media.giphy.com/media/S3ngOKdOlB8bd6Ubwd/giphy.gif" alt="pet club" description="This is my first site I created after only spending 1-2 weeks learning HTML, JavaSctipt and CSS. Trying to.. " github="https://github.com/jo-well29/Pet-Club-website" site="https://lnkd.in/d7Rt4BX" />
+            {/* <ProjectCard tag1="HTML" tag2="CSS" tag3="JavaScript" name="Catan Board Generator" url="https://media.giphy.com/media/S3ngOKdOlB8bd6Ubwd/giphy.gif" alt="pet club" description="This is my first site I created after only spending 1-2 weeks learning HTML, JavaSctipt and CSS. Trying to.. " github="https://github.com/jo-well29/Pet-Club-website" site="https://lnkd.in/d7Rt4BX" /> */}
 
 
 
