@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/Header.css'
-import Pdf from '../Documents/Jowel-Resume.pdf'
+import Pdf from '../Documents/Software-engineer-resume.pdf'
 
 
 const Header = () => {
