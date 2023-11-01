@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/UnderConstruction'
+import '../styles/UnderConstruction.css'
 
 const UnderConstruction = () => {
   return (
